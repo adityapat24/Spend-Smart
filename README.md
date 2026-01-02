@@ -8,7 +8,7 @@ An intelligent expense tracking application that automatically fetches banking t
 - **AI-Powered Categorization**: Uses Google's Gemini AI to categorize transactions with 90% accuracy across 10+ spending categories
 - **Real-time Database Storage**: Stores all transactions in PostgreSQL for fast queries and analysis
 - **Google Sheets Integration**: Automatically syncs categorized transactions to Google Sheets for easy viewing and analysis
-- ⚡ **Efficient Pipeline**: Reduces manual financial tracking time by 80%
+- **Efficient Pipeline**: Reduces manual financial tracking time by 80%
 
 ## Architecture
 
